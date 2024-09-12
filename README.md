@@ -1,2 +1,13 @@
-# shipping-calculater
-Our cost calculator makes it easy to estimate your shipment costs. Simply enter your origin, destination, and package weight for a quick shipping quote.
+Please consider the below factors while contributing
+Code Style:
+Maintain a consistent code style for readability.
+Documentation:
+Ensure well-documented code for effective collaboration.
+Testing:
+Thoroughly test your changes before submitting a pull request.
+Issue Tracker:
+Check the Issue Tracker for tasks.
+Code Review:
+All contributions undergo a code review process.
+Licensing:
+Contributions are licensed.
